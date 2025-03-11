@@ -6,7 +6,7 @@
 
 Contact with me
 - email: lmz2498369702@gmail.com
-- QQ: 2498369702
+- QQ: 2870325813
 - Blog: https://lmzyoyo.top
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MinzhiYoyo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
